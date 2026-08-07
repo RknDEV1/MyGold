@@ -1,0 +1,9 @@
+Package: com.snowzdev.mygoldapi
+Name: MyGold API
+Depends: mobilesubstrate
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Description: Licence authentication and UDID/HWID retrieval system for iOS
+Maintainer: snowzdev
+Author: snowzdev
+Section: Tweaks
